@@ -13,7 +13,10 @@ public class CubeMove : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        ///adsiuaisudh
+        ///asdhiuasiud
+        ///acfjabcahsiduytwuetoqetyoqw 
+        ///
     }
 
     // Update is called once per frame
@@ -35,7 +38,7 @@ public class CubeMove : MonoBehaviour
         }
         else
         {
-            //decelerate
+            
             speed = Mathf.Max(speed - decelerationRate * Time.deltaTime, 0);
         }
 
